@@ -99,3 +99,79 @@ body {
         padding: 10px 12px;
     }
 }
+
+.Alex{
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-right: 20px;
+    background-color:#95bbf552;
+    width: 99.5%;
+    height: 70vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: linear-gradient(115deg, #71d0fc88, #87e3fa8f, #90bde7a6, #71f1d688), radial-gradient(circle at 50% 100%, #91bde9e1 10%, transparent 11%);
+  background-repeat: repeat-x;
+  
+}
+
+.text{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    height: 60vh;
+}
+
+h1{
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 20px;
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    align-items: first baseline;
+    position: relative;top: 80px;
+    position: relative;right: 33%;
+}
+
+.project{
+    width: 110px;
+    margin: 70px 20px 20px 20px;
+    padding: 10px;
+    background-color: #1671f9b7;
+    border: 2px  #1670f9 solid;
+    border-radius: 15px;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.profile{
+    margin: 70px 20px 20px 20px;
+    padding: 10px;
+    width: 115px;
+    border: 2px  #1671f9fd solid;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.877);
+}
+
+.image1{
+    margin: 20px 60px 20px 20px;
+    width: 110%;
+    height: 60vh;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    border: 6px rgba(255, 255, 255, 0.712) solid;
+  
+}
